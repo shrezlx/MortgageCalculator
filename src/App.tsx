@@ -9,6 +9,7 @@ interface PaymentRow {
   remainingBalance: string;
 }
 
+//Calculate Demo Sadiksha
 const calculateMortgageSchedule = (
   principal: number,
   apr: number,
